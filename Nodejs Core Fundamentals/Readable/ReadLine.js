@@ -1,5 +1,6 @@
 // A wrapper around the process standard output / input object
-// Instead of using process input and output directly we can use readline and write in easy way
+// Instead of using process input and output 
+//directly we can use readline and write in easy way
 
 const readline = require("readline");
 const util = require("util");
